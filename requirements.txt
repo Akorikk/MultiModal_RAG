@@ -1,0 +1,8 @@
+PyMuPDF
+langchain
+transformers
+Pillow
+torch
+numpy
+scikit-learn
+faiss-cpu
